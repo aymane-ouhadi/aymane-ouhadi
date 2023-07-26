@@ -3,7 +3,7 @@
 
 <br/><br/>
 
-- 🌱 I’m studying in **ENSIM, Le Mans University, France** in a Double Degree program from **ENSA, Sidi Mohammed Ben Abdellah University, Morocco**
+- 🌱 I’m studying in **ENSIM, Le Mans University, France** in a Double Degree program
 
 - 💼 Currenty looking for an End-of-studies Internship in the Software Development field
 
