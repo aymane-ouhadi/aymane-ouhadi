@@ -11,6 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://aymane-portfolio.vercel.app/](https://aymane-portfolio.vercel.app/)
 
-- 📫 Reach me on my email **aymaneouhadi17@gmail.com**
+- 📫 Reach me through my email **aymaneouhadi17@gmail.com**
 
 <br/><br/>
