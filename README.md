@@ -9,7 +9,7 @@
 
 - 💻 Self-learning and always passionate about new technologies
 
-- 👨‍💻 All of my projects are available at [https://aymane-portfolio.vercel.app/](https://aymane-portfolio.vercel.app/)
+- 👨‍💻 My projects are available at [https://aymane-portfolio.vercel.app/](https://aymane-portfolio.vercel.app/)
 
 - 📫 Reach me through my email **aymaneouhadi17@gmail.com**
 
