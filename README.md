@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋, <b>I'm Aymane OUHADI</b></h1>
-<h3 align="center">5th year Software Engineering Student | Web & Mobile Developer</h3>
+<h3 align="center">Software Engineer @Capgemini ♠️</h3>
 
 <br/><br/>
 
-- 🌱 I’m studying in **ENSIM, Le Mans University, France** in a Double Degree program
+- 🌱 Graduated from **ENSIM, Le Mans University, France** and **ENSAF, National School of Applied Sciences of Fez, Morocco** in a Double Degree program
 
 - 💼 Currenty looking for an End-of-studies Internship in the Software Development field
 
